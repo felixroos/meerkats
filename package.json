@@ -1,0 +1,14 @@
+{
+  "name": "meerkats",
+  "version": "1.0.0",
+  "main": "page/index.html",
+  "repository": "https://github.com/felixroos/meerkats.git",
+  "author": "Felix Roos <roos@entrecode.de>",
+  "license": "MIT",
+  "scripts": {
+    "publish": "node publish.js"
+  },
+  "dependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
